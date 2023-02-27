@@ -6,7 +6,7 @@ Burada projenin ekran resimlerini ve kaynak kodlardan bazı kod parçalarını a
 
 PROJE HAKKINDA TEKNİK BİLGİLER:
 
-PROJE HAKKINDA TEKNİK BİLGİLER: Proje Visual Studio .Net 5 ASP.NET MVC CORE ile yazdım. Proje Entity Framework Core Code-First yaklaşımıyla yazılmıştır. Projeyi 5 katman (EL,DAL,BLL,UI,API) olarak yazdım.Proje'de Yazar paneli ve Admin panelide ayrıca bulunmaktadır. Zamanla projeye yeni teknolojiler eklenecek olup en kısa sürekli geliştirilmeye devam edecektir.
+PROJE HAKKINDA TEKNİK BİLGİLER: Proje Visual Studio .Net 5 ASP.NET MVC CORE ile yazdım. Proje Entity Framework Core Code-First yaklaşımıyla yazılmıştır. Projeyi 5 katman (EL,DAL,BLL,UI,API) olarak yazdım.Proje'de Yazar paneli ve Admin panelide ayrıca bulunmaktadır. Zamanla projeye yeni teknolojiler eklenecek olup en kısa sürede geliştirilmeye devam edecektir.
 
 ![1](https://user-images.githubusercontent.com/120444709/221646896-5d5cbf48-de21-471a-b933-fe8d63e76742.png)
 ![2](https://user-images.githubusercontent.com/120444709/221646921-53347bd6-01f8-4653-97f5-38f4c0cd966a.png)
